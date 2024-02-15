@@ -1,6 +1,6 @@
 SELECT 
         fo.id order_id,
-        fo.nmae name,
+        fo.name name,
         fo.s_key order_s_key,
         fo.d_order_status_id,
         order_created valid_from,
